@@ -2,7 +2,7 @@
 
 ### Pré-requisitos
 
-Neste projeto foi utilizado as seguintes ferramentas:<\br>
+Neste projeto foi utilizado as seguintes ferramentas:</br>
 [Faker.js](https://fakerjs.dev/), [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e (opcional)[Yarn](https://yarnpkg.com/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
