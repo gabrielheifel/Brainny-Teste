@@ -2,11 +2,11 @@
 
 ### Pré-requisitos
 
-Neste projeto foi utilizado as seguintes ferramentas:
+Neste projeto foi utilizado as seguintes ferramentas:<\br>
 [Faker.js](https://fakerjs.dev/), [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e (opcional)[Yarn](https://yarnpkg.com/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-### Rodando o Projeto (servidor)
+### Rodando o Projeto
 
 ```bash
 
@@ -16,8 +16,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ yarn
 
 # Para executar uma função, vá até 'app.js',
-# descomente a chamada da função em questão, logo abaixo de "function call",
-# abra o terminar e execute:
+# descomente a chamada da função que deseja, 
+# logo abaixo de "function call",
+# e abra o terminar e execute:
 $ node app
 
 ```

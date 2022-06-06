@@ -222,5 +222,5 @@ export function addNewClientAtStart(newClient) {
   clients.unshift(newClient);
 }
 // ==================== function call ====================
-addNewClientAtStart(newClient)
-console.log(clients)
+// addNewClientAtStart(newClient)
+// console.log(clients)
