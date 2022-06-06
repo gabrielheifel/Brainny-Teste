@@ -24,9 +24,10 @@ function getDatas() {
 }
 
 // Create all Datas
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 2; i++) {
   clients.push(getDatas());
 }
 
 // Create new client
 export const newClient = getDatas();
+console.log(newClient)
