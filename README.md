@@ -10,12 +10,9 @@ Neste projeto foi utilizado as seguintes ferramentas:<br />
 
 # Abra o projeto no seu editor de código
 
-# Instale as dependências
-$ yarn
-
 # Para executar uma função, vá até 'app.js',
-# descomente a chamada da função que deseja, 
-# logo abaixo de "function call",
+# descomente a chamada da função que deseja
+# (logo abaixo de "function call")
 # e abra o terminar e execute:
 $ node app
 

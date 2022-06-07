@@ -58,7 +58,7 @@ export function findAmountForAChar(char) {
   return count;
 }
 // Can be Name or Gender
-// console.log("Total de registros encontrados: ", findAmountForAChar('M'))
+// console.log("Total de registros encontrados: ", findAmountForAChar('m'))
 
 
 // =================================== 5 ===================================
@@ -118,7 +118,7 @@ export function findFirstNameByFirstLetter(char) {
 }
 // ==================== function call ====================
 // Enter with some letter to find a client name
-// console.log(findFirstNameByFirstLetter('M'))
+// console.log(findFirstNameByFirstLetter('j'))
 
 
 // =================================== 8 ===================================
