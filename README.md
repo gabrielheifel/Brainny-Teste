@@ -13,7 +13,7 @@ Neste projeto foi utilizado as seguintes ferramentas:<br />
 # Para executar uma função, vá até 'app.js',
 # descomente a chamada da função que deseja
 # (logo abaixo de "function call")
-# e abra o terminar e execute:
+# abra o termina e execute:
 $ node app
 
 ```
